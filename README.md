@@ -14,12 +14,12 @@ Train the YOLOv7 model using the preprocessed dataset.
 Evaluate model performance using metrics such as mAP and IoU.
 
 **Results**
-The model achieved high accuracy in detecting and classifying weed objects in various scenarios. The integration with the CNC-based robot allows for real-time detection and response, reducing the need for manual intervention.
+- The model achieved high accuracy in detecting and classifying weed objects in various scenarios. The integration with the CNC-based robot allows for real-time detection and response, reducing the need for manual intervention.
 
 **Future Work**
-Improve model accuracy by expanding the dataset and applying advanced augmentation techniques.
+- Improve model accuracy by expanding the dataset and applying advanced augmentation techniques.
 Enhance the robotic system to include more sensors and tools for better field management.
 
 **Acknowledgements**
-This project was developed as part of my research at BITS Pilani's Mechanical Engineering Department. Special thanks to my team members and mentors for their support and guidance.
+- This project was developed as part of my research at BITS Pilani's Mechanical Engineering Department. Special thanks to my team members and mentors for their support and guidance.
 
