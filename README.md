@@ -25,6 +25,6 @@ Enhance the robotic system to include more sensors and tools for better field ma
 
 - Once we capture the image of the plant in a set area (say 20*20 centimetre square). We can utilise image augmentation techniques, smoothen the image, and identify blobs smaller than the main central plant as "aliens". Hence this is proof of concept that this is a simple implementation of Weed detection. Due to lack of image data, I had to make up my own Image data and use Image augmentation techniques to train the YOLOv7 model. I prepared the data by using LabelImg software to label the images. And I have uploaded them onto this repositor as images and labels for training YOLOv7 model.
 
-- **Motivation**:
+**Motivation**:
 - I was a Research Assistant at BITS Pilani in the Mechanical Engineering Department from August 2022 - December 2022 and worked on the ideation and development of a CNC-Based Automation for Terrace Farming.
 YOLOv7 based weed detection was a small part of this project. I created a simple way of detecting weed plants which will grow in and around the main plants, and can be identified by way of image capture --> image augmentation --> and finally use this model to detect the weed and notify the user.
